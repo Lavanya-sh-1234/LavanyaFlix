@@ -20,7 +20,7 @@ export const Header = () => {
         <div className="container">
           <div className="navbar-brand">
             <NavLink to="index">
-              <p>LavanyaFlix</p>
+              <p>MovieFlix</p>
             </NavLink>
           </div>
 

@@ -4,7 +4,7 @@ export const About = () => {
     
         <div className="about-page">Introduction</div>
         <p>
-          Welcome to LavanyaFlix, your ultimate destination for exploring and
+          Welcome to MovieFlix, your ultimate destination for exploring and
           discovering movies. Wheather you are looking for the latest
           blockbusters, timeless classics, or hidden gems, we have got something
           for everyone.
